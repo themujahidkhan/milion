@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1059580916337",
+    "firebase_url": "https://milionforex-20376.firebaseio.com",
+    "project_id": "milionforex-20376",
+    "storage_bucket": "milionforex-20376.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059580916337:android:a10c0639ca598a00a4e1d0",
+        "android_client_info": {
+          "package_name": "com.milion.forexsignal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059580916337-6pg9gt6u3sngqp0fs2dj4oc0b41jauqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.milion.forexsignal",
+            "certificate_hash": "9367451847d308be78dbc30d59e837891b6ee62d"
+          }
+        },
+        {
+          "client_id": "1059580916337-eugfct0k1u8o2dcsl6hjdoro8tncenma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe2suW7adA8OdA9MzxHM77CPvfP8kJiLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059580916337-eugfct0k1u8o2dcsl6hjdoro8tncenma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

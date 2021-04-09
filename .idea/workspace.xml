@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ead46d7c-939b-4ce5-ae53-e8c569df50b2" name="Default Changelist" comment="all set" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jlTeK6MhdiwVdHRwyJNXkpXocC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/android/app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ead46d7c-939b-4ce5-ae53-e8c569df50b2" name="Default Changelist" comment="" />
+      <created>1604377772441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604377772441</updated>
+    </task>
+    <task id="LOCAL-00001" summary="integrated google signIn">
+      <created>1604509221496</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604509221496</updated>
+    </task>
+    <task id="LOCAL-00002" summary="email signIn integrated">
+      <created>1604574442814</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604574442815</updated>
+    </task>
+    <task id="LOCAL-00003" summary="email signIn integrated prouser">
+      <created>1605116616021</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605116616021</updated>
+    </task>
+    <task id="LOCAL-00004" summary="onboarding overflow fixed">
+      <created>1605192140058</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605192140058</updated>
+    </task>
+    <task id="LOCAL-00005" summary="onboarding overflow fixed">
+      <created>1605192155805</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605192155805</updated>
+    </task>
+    <task id="LOCAL-00006" summary="overflow fixed">
+      <created>1605270911518</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605270911518</updated>
+    </task>
+    <task id="LOCAL-00007" summary="dark mode">
+      <created>1605358124259</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605358124272</updated>
+    </task>
+    <task id="LOCAL-00008" summary="razorpay_integration">
+      <created>1605808685401</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605808685401</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added Gpay permission">
+      <created>1606113310265</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606113310265</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added BanerAds">
+      <created>1606303708561</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1606303708561</updated>
+    </task>
+    <task id="LOCAL-00011" summary="test iap">
+      <created>1607190601079</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1607190601079</updated>
+    </task>
+    <task id="LOCAL-00012" summary="iap update">
+      <created>1607264077646</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1607264077646</updated>
+    </task>
+    <task id="LOCAL-00013" summary="iap update">
+      <created>1607351923212</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1607351923213</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Integrated IAP">
+      <created>1607503825251</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1607503825251</updated>
+    </task>
+    <task id="LOCAL-00015" summary="version code update">
+      <created>1607503920087</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1607503920087</updated>
+    </task>
+    <task id="LOCAL-00016" summary="iap issue fixed">
+      <created>1607536693168</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1607536693169</updated>
+    </task>
+    <task id="LOCAL-00017" summary="video added">
+      <created>1607604269299</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1607604269299</updated>
+    </task>
+    <task id="LOCAL-00018" summary="final">
+      <created>1607626235767</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1607626235767</updated>
+    </task>
+    <task id="LOCAL-00019" summary="all set">
+      <created>1607697565837</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1607697565837</updated>
+    </task>
+    <task id="LOCAL-00020" summary="all set">
+      <created>1607697913793</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1607697913793</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="integrated google signIn" />
+    <MESSAGE value="email signIn integrated" />
+    <MESSAGE value="email signIn integrated prouser" />
+    <MESSAGE value="onboarding overflow fixed" />
+    <MESSAGE value="overflow fixed" />
+    <MESSAGE value="dark mode" />
+    <MESSAGE value="workspace" />
+    <MESSAGE value="razorpay_integration" />
+    <MESSAGE value="added Gpay permission" />
+    <MESSAGE value="added BanerAds" />
+    <MESSAGE value="test iap" />
+    <MESSAGE value="iap update" />
+    <MESSAGE value="Integrated IAP" />
+    <MESSAGE value="version code update" />
+    <MESSAGE value="iap issue fixed" />
+    <MESSAGE value="video added" />
+    <MESSAGE value="final" />
+    <MESSAGE value="all set" />
+    <option name="LAST_COMMIT_MESSAGE" value="all set" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="576" y="196" width="800" height="712" key="#Plugins" timestamp="1606132727907">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state x="576" y="196" width="800" height="712" key="#Plugins/43.27.1877.1053@43.27.1877.1053" timestamp="1606132727907" />
+    <state x="664" y="289" width="624" height="526" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1606794143183">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state x="664" y="289" width="624" height="526" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/43.27.1877.1053@43.27.1877.1053" timestamp="1606794143183" />
+    <state x="714" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608013530835">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state x="714" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/43.27.1877.1053@43.27.1877.1053" timestamp="1608013530835" />
+    <state x="143" y="125" width="1677" height="855" key="AVDManager" timestamp="1606817172966">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state x="143" y="125" width="1677" height="855" key="AVDManager/43.27.1877.1053@43.27.1877.1053" timestamp="1606817172966" />
+    <state x="520" y="100" width="912" height="905" key="CommitChangelistDialog2" timestamp="1607698887940">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state x="520" y="100" width="912" height="905" key="CommitChangelistDialog2/43.27.1877.1053@43.27.1877.1053" timestamp="1607698887940" />
+    <state x="821" y="311" width="309" height="482" key="EnvironmentVariablesDialog" timestamp="1606128048876">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state x="821" y="311" width="309" height="482" key="EnvironmentVariablesDialog/43.27.1877.1053@43.27.1877.1053" timestamp="1606128048876" />
+    <state x="764" y="310" width="735" height="484" key="FileChooserDialogImpl" timestamp="1607536259883">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state x="764" y="310" width="735" height="484" key="FileChooserDialogImpl/43.27.1877.1053@43.27.1877.1053" timestamp="1607536259883" />
+    <state width="1276" height="390" key="GridCell.Tab.0.bottom" timestamp="1608137377070">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state width="1276" height="390" key="GridCell.Tab.0.bottom/43.27.1877.1053@43.27.1877.1053" timestamp="1608137377070" />
+    <state width="1276" height="390" key="GridCell.Tab.0.center" timestamp="1608137377069">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state width="1276" height="390" key="GridCell.Tab.0.center/43.27.1877.1053@43.27.1877.1053" timestamp="1608137377069" />
+    <state width="1276" height="390" key="GridCell.Tab.0.left" timestamp="1608137377069">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state width="1276" height="390" key="GridCell.Tab.0.left/43.27.1877.1053@43.27.1877.1053" timestamp="1608137377069" />
+    <state width="1276" height="390" key="GridCell.Tab.0.right" timestamp="1608137377069">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state width="1276" height="390" key="GridCell.Tab.0.right/43.27.1877.1053@43.27.1877.1053" timestamp="1608137377069" />
+    <state x="210" y="201" width="1024" height="845" key="SettingsEditor" timestamp="1607419815102">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state x="210" y="201" width="1024" height="845" key="SettingsEditor/43.27.1877.1053@43.27.1877.1053" timestamp="1607419815102" />
+    <state x="576" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1607698880104">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state x="576" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/43.27.1877.1053@43.27.1877.1053" timestamp="1607698880104" />
+    <state x="644" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1606286436753">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state x="644" y="257" width="672" height="678" key="search.everywhere.popup/43.27.1877.1053@43.27.1877.1053" timestamp="1606286436753" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/PurchasePage.dart</url>
+          <line>323</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/Onboarding.dart</url>
+          <line>86</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
