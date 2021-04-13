@@ -1,8 +1,8 @@
-import 'dart:async';
-
+import 'package:animated_splash_screen/animated_splash_screen.dart';
 import 'package:flutter/material.dart';
-import 'homepage.dart';
+
 import 'authpages/signin.dart';
+import 'homepage.dart';
 
 void main() {
   runApp(MyApp());
@@ -33,21 +33,11 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-        body: Container(
-          height: MediaQuery.of(context).size.height,
-          // width: MediaQuery.of(context).size.width,
-          color: Colors.yellow,
-          child: Center(
-            child: Container(
-              height: 200,
-              width: 200,
-              decoration: BoxDecoration(
-                image: DecorationImage(
-                  image: AssetImage('assets/image/default.png'),
-                ),
-              ),
-            ),
-          ),
+        body: AnimatedSplashScreen(
+          splash: 'assets/image/default.png',
+          nextScreen: SigninPage(),
+          splashTransition: SplashTransition.scaleTransition,
+          backgroundColor: Colors.yellow,
         ),
       ),
     );
