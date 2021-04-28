@@ -26,10 +26,70 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ead46d7c-939b-4ce5-ae53-e8c569df50b2" name="Default Changelist" comment="all set">
-      <change afterPath="$PROJECT_DIR$/lib/homepage.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/authpages/signin.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/authpages/signin.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle_______build_app_intermediates_flutter_debug_libs_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_core_core_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_java8_2_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_multidex_multidex_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_multidex_multidex_instrumentation_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_identifier_17_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_17_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_18_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_api_18_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_base_18_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_impl_18_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_18_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_api_18_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_google_android_gms_play_services_stats_17_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_17_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_18_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_ktx_18_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_google_firebase_firebase_common_19_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_google_firebase_firebase_common_ktx_19_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_google_firebase_firebase_components_16_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_google_firebase_firebase_installations_16_3_3_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_google_firebase_firebase_installations_interop_16_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_google_firebase_firebase_measurement_connector_18_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__io_flutter_arm64_v8a_debug_1_0_0_2dce47073a378673f6ca095e91b8065544c3a881.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__io_flutter_armeabi_v7a_debug_1_0_0_2dce47073a378673f6ca095e91b8065544c3a881.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__io_flutter_flutter_embedding_debug_1_0_0_2dce47073a378673f6ca095e91b8065544c3a881.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__io_flutter_x86_64_debug_1_0_0_2dce47073a378673f6ca095e91b8065544c3a881.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__io_flutter_x86_debug_1_0_0_2dce47073a378673f6ca095e91b8065544c3a881.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_72.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_72.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_72.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/modules/android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/modules/android.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/modules/app/android.app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/google-services.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,6 +302,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="integrated google signIn" />

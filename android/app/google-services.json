@@ -23,6 +23,14 @@
           }
         },
         {
+          "client_id": "1059580916337-buhcurbc4fsar4e7ia0uks5iq0lnif2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.milion.forexsignal",
+            "certificate_hash": "d5e144a47023e6fcea54b795a508a837bc151371"
+          }
+        },
+        {
           "client_id": "1059580916337-eugfct0k1u8o2dcsl6hjdoro8tncenma.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -41,7 +49,8 @@
             }
           ]
         }
-      }
+      },
+      "admob_app_id": "ca-app-pub-6004522928352651~3601635839"
     }
   ],
   "configuration_version": "1"
