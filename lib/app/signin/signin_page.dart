@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:milion/app/signin/social_signin_button.dart';
 
+import 'package:milion/app/signin/social_signin_button.dart';
 import 'custom_signin_button.dart';
 
 class SignInPage extends StatelessWidget {
