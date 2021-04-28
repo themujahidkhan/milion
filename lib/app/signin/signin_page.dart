@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:milion/app/signin/social_signin_button.dart';
 
+import 'custom_signin_button.dart';
+
 class SignInPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -23,22 +25,25 @@ class SignInPage extends StatelessWidget {
                     ),
                   ),
                 ),
+                SignInButton(
+                  text: 'Sign in with Email & Password',
+                  color: Colors.yellow,
+                  onPressed: () => print('Login with Email'),
+                ),
                 SizedBox(
                   height: 16.0,
                 ),
                 Text(
-                  'Sign in to continue',
-                  style: TextStyle(
-                    color: Colors.grey,
-                  ),
+                  'OR',
+                  textAlign: TextAlign.center,
                 ),
                 SizedBox(
                   height: 16.0,
                 ),
                 SocialSignInButton(
                   assetName: 'assets/image/google-logo.png',
-                  text: 'Signin With Google',
-                  onPressed: () {},
+                  text: 'Sign in with Google',
+                  onPressed: () => print('Login with Google'),
                   color: Colors.white,
                 ),
                 SizedBox(
@@ -46,9 +51,10 @@ class SignInPage extends StatelessWidget {
                 ),
                 SocialSignInButton(
                   assetName: 'assets/image/facebook-logo.png',
-                  text: 'Sign in with facebook',
-                  onPressed: () {},
-                  color: Colors.white,
+                  text: 'Sign in with Facebook',
+                  textColor: Colors.white,
+                  onPressed: () => print('Login with Facebook'),
+                  color: Color(0xFF3B5998),
                 ),
               ],
             ),
