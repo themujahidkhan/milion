@@ -1,6 +1,7 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
+import 'package:milion/app/signin/signin_page.dart';
 
 class OnBoarding extends StatelessWidget {
   @override
@@ -56,7 +57,7 @@ class OnBoarding extends StatelessWidget {
                 width: 200.0,
                 child: TextButton(
                   style: TextButton.styleFrom(
-                    elevation: 1,
+                    elevation: 4,
                     primary: Colors.black,
                     backgroundColor: Colors.yellow,
                     textStyle: TextStyle(
@@ -67,7 +68,12 @@ class OnBoarding extends StatelessWidget {
                       borderRadius: BorderRadius.circular(100.0),
                     ),
                   ),
-                  onPressed: () => print('Take me to signup page'),
+                  onPressed: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(builder: (context) => SignInPage()),
+                    );
+                  },
                   child: Text("SIGN UP"),
                 ),
               ),

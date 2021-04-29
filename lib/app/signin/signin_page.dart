@@ -16,14 +16,23 @@ class SignInPage extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
                 Padding(
-                  padding: const EdgeInsets.all(32.0),
+                  padding: const EdgeInsets.all(20.0),
                   child: Container(
-                    child: Text(
-                      'Sign In',
-                      style: TextStyle(fontSize: 32.0),
-                      textAlign: TextAlign.center,
+                    height: 200.0,
+                    decoration: BoxDecoration(
+                      image: DecorationImage(
+                        image: AssetImage('assets/image/signin.png'),
+                      ),
                     ),
                   ),
+                ),
+                Text(
+                  'SIGN IN',
+                  style: TextStyle(fontSize: 32.0),
+                  textAlign: TextAlign.left,
+                ),
+                SizedBox(
+                  height: 32.0,
                 ),
                 SignInButton(
                   text: 'Sign in with Email & Password',
