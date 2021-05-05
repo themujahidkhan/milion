@@ -1,7 +1,8 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:milion/app/signin/signin_page.dart';
+// import 'package:milion/app/signin/signin_page.dart';
+import 'package:milion/app/signin/signup.dart';
 
 class OnBoarding extends StatelessWidget {
   @override
@@ -71,7 +72,7 @@ class OnBoarding extends StatelessWidget {
                   onPressed: () {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => SignInPage()),
+                      MaterialPageRoute(builder: (context) => SignUpPage()),
                     );
                   },
                   child: Text("SIGN UP"),

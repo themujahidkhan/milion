@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:milion/app/signin/social_signin_button.dart';
 import 'custom_signin_button.dart';
 
-class SignInPage extends StatelessWidget {
+class SignUpPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SafeArea(
@@ -21,13 +21,13 @@ class SignInPage extends StatelessWidget {
                     height: 200.0,
                     decoration: BoxDecoration(
                       image: DecorationImage(
-                        image: AssetImage('assets/image/signin.png'),
+                        image: AssetImage('assets/image/signup.png'),
                       ),
                     ),
                   ),
                 ),
                 Text(
-                  'SIGN IN',
+                  'SIGN UP',
                   style: TextStyle(fontSize: 32.0),
                   textAlign: TextAlign.left,
                 ),
@@ -35,9 +35,9 @@ class SignInPage extends StatelessWidget {
                   height: 32.0,
                 ),
                 SignInButton(
-                  text: 'Login with Email & Password',
+                  text: 'Sign up with Email & Password',
                   color: Colors.yellow,
-                  onPressed: () => print('Login with Email'),
+                  onPressed: () => print('Signup with Email'),
                 ),
                 SizedBox(
                   height: 16.0,
@@ -51,7 +51,7 @@ class SignInPage extends StatelessWidget {
                 ),
                 SocialSignInButton(
                   assetName: 'assets/image/google-logo.png',
-                  text: 'Login with Google',
+                  text: 'Sign in with Google',
                   onPressed: () => print('Login with Google'),
                   color: Colors.white,
                 ),
@@ -60,7 +60,7 @@ class SignInPage extends StatelessWidget {
                 ),
                 SocialSignInButton(
                   assetName: 'assets/image/facebook-logo.png',
-                  text: 'Login with Facebook',
+                  text: 'Sign in with Facebook',
                   textColor: Colors.white,
                   onPressed: () => print('Login with Facebook'),
                   color: Color(0xFF3B5998),
